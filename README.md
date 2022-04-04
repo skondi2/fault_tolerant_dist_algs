@@ -17,3 +17,4 @@
   - Reconstruction: 
     - Given each node's share of the secret, each node uses Lagrange interpolation to reconstruct the random secret
     
+ Source: https://sites.google.com/view/cs598ftd/home
